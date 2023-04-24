@@ -11,7 +11,7 @@
                 offset-md="4" adds a left margin of 4 units to the left side of the column on medium screens.     -->
 
                 <v-avatar color="primary" size="56" tile>
-                    <v-img src="@/assets/logo.png"></v-img>
+                    <v-img src="@/assets/librarianlogo.jpeg"></v-img>
                 </v-avatar>
                 <v-text-field label="Username" type="text" v-model="username"></v-text-field>
             <v-text-field label="Passwrod" type="password" v-model="password"></v-text-field>
